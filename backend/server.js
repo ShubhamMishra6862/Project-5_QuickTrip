@@ -5,7 +5,7 @@ const mongoose = require("mongoose");
 const bodyParser = require('body-parser');
 const cookieParser=require('cookie-parser');
 const path=require('path');
-// require("dotenv").config({path: path.resolve(__dirname,"../.env")});
+require("dotenv").config();
 
 const userSchema = new mongoose.Schema({
     username: String,
