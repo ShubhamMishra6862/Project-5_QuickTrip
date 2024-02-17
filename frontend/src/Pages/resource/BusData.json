@@ -1,0 +1,1564 @@
+[
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Channenahalli"
+      },
+      "geometry": {
+        "coordinates": [
+          77.430538,
+          12.977886
+        ],
+        "type": "Point"
+      },
+      "id": "039fb9dadd837a4d02871d4ea4092c0e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Veeranna Palya"
+      },
+      "geometry": {
+        "coordinates": [
+          77.61376,
+          13.041916
+        ],
+        "type": "Point"
+      },
+      "id": "0784726a9105d33bfd1b7cd87a8e4c1c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "NIMHANS Hospital"
+      },
+      "geometry": {
+        "coordinates": [
+          77.597663,
+          12.939819
+        ],
+        "type": "Point"
+      },
+      "id": "0a917c4e0906d7babdaff849db6070c7"
+    },
+   
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Indian Institute of Astrophysics"
+      },
+      "geometry": {
+        "coordinates": [
+          77.620764,
+          12.927439
+        ],
+        "type": "Point"
+      },
+      "id": "0b5cab2ffa74ac6e2079266f2fae997f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Aegis Gas"
+      },
+      "geometry": {
+        "coordinates": [
+          77.492779,
+          12.938579
+        ],
+        "type": "Point"
+      },
+      "id": "0f7609ce7b53f018884eed42889abb9a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Anjaneya Temple"
+      },
+      "geometry": {
+        "coordinates": [
+          77.581501,
+          12.972831
+        ],
+        "type": "Point"
+      },
+      "id": "0fd40d3c404829c1e67f6769d83a6c62"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Dickenson Road"
+      },
+      "geometry": {
+        "coordinates": [
+          77.610187,
+          12.980921
+        ],
+        "type": "Point"
+      },
+      "id": "1092072294e50004fdc66ff8a224fe59"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busline": "Garkemanthana"
+      },
+      "geometry": {
+        "coordinates": [
+          77.66652,
+          12.975385
+        ],
+        "type": "Point"
+      },
+      "id": "13e18c44256fe14580733312492d8f1a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Brigade Road"
+      },
+      "geometry": {
+        "coordinates": [
+          77.60699,
+          12.971925
+        ],
+        "type": "Point"
+      },
+      "id": "153bbe66308f1fe910ca833d156501b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Dwaraka Nagara Hoskerehalli"
+      },
+      "geometry": {
+        "coordinates": [
+          77.539117,
+          12.933871
+        ],
+        "type": "Point"
+      },
+      "id": "1795ed4347f319c9de030b67061bbc1a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Bangalore Fort"
+      },
+      "geometry": {
+        "coordinates": [
+          77.57681,
+          12.964076
+        ],
+        "type": "Point"
+      },
+      "id": "182b450258bbba97950f8be75a1cf3f8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Chikka Banavara Bus Stop"
+      },
+      "geometry": {
+        "coordinates": [
+          77.50455,
+          13.075553
+        ],
+        "type": "Point"
+      },
+      "id": "1b222c73f2b15185f62cefbb60edc6b8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "BEML Gate"
+      },
+      "geometry": {
+        "coordinates": [
+          77.658825,
+          12.971321
+        ],
+        "type": "Point"
+      },
+      "id": "1ebb243c18f78027abb37c0236601f92"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Geddala Halli"
+      },
+      "geometry": {
+        "coordinates": [
+          77.645447,
+          13.048494
+        ],
+        "type": "Point"
+      },
+      "id": "21e81a5dd1b58d24ca5bd11fcac7fc8f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Sidhi Colony"
+      },
+      "geometry": {
+        "coordinates": [
+          77.616781,
+          12.995726
+        ],
+        "type": "Point"
+      },
+      "id": "2373dc3bca2d13a5dbfbec1bc5c8010c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Lal Bagh Bus Stop"
+      },
+      "geometry": {
+        "coordinates": [
+          77.593293,
+          12.949026
+        ],
+        "type": "Point"
+      },
+      "id": "266d9e88574213be8e80f8ca5f435c19"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Yelahanka",
+        "color": "pink"
+      },
+      "geometry": {
+        "coordinates": [
+          77.597971,
+          13.100035
+        ],
+        "type": "Point"
+      },
+      "id": "297bb23dcf88b648ee55b8da04cdec4c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "IIM Apollo"
+      },
+      "geometry": {
+        "coordinates": [
+          77.599864,
+          12.896269
+        ],
+        "type": "Point"
+      },
+      "id": "2ac51b9158e66b6b8165a9d38af2c83d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Chandranagara Cross"
+      },
+      "geometry": {
+        "coordinates": [
+          77.562371,
+          12.902066
+        ],
+        "type": "Point"
+      },
+      "id": "2be3ce4d782725e4cf71941b87360489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Shirke KHB Quarters"
+      },
+      "geometry": {
+        "coordinates": [
+          77.488147,
+          12.932722
+        ],
+        "type": "Point"
+      },
+      "id": "2f8cd6ae289e80e21bddbe52d272e35e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Basava Bhavan"
+      },
+      "geometry": {
+        "coordinates": [
+          77.512357,
+          12.987848
+        ],
+        "type": "Point"
+      },
+      "id": "323fd5b5d9d88999c40e1c3cf17b9639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Byanna Palya"
+      },
+      "geometry": {
+        "coordinates": [
+          77.543394,
+          12.875406
+        ],
+        "type": "Point"
+      },
+      "id": "347946b874e445bcdef808ff04f86ea1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Makkala Koota"
+      },
+      "geometry": {
+        "coordinates": [
+          77.573827,
+          12.957163
+        ],
+        "type": "Point"
+      },
+      "id": "3ac65bea90627b701726b8e7e7a899d6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "CMTI Goragunte Palya"
+      },
+      "geometry": {
+        "coordinates": [
+          77.537239,
+          13.030388
+        ],
+        "type": "Point"
+      },
+      "id": "3c13fc6932b69b7174ce1cdbc3205764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Konankunte Cross"
+      },
+      "geometry": {
+        "coordinates": [
+          77.564114,
+          12.890214
+        ],
+        "type": "Point"
+      },
+      "id": "3d4dd7c1b3d2a609ef8c60d13a2e6f83"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busline": "BWSSB Quarters"
+      },
+      "geometry": {
+        "coordinates": [
+          77.52339,
+          12.939651
+        ],
+        "type": "Point"
+      },
+      "id": "3e5362eae8938f32512f9b3712c0a207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Mekhri Circle",
+        "color": "pink, blue"
+      },
+      "geometry": {
+        "coordinates": [
+          77.583787,
+          13.018832
+        ],
+        "type": "Point"
+      },
+      "id": "3f56dd8a35c2d7158de24da28f3c1a5c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Muthyala Nagara"
+      },
+      "geometry": {
+        "coordinates": [
+          77.553173,
+          13.043748
+        ],
+        "type": "Point"
+      },
+      "id": "428cb2d905e57c42e428f23af3534044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Sirsi Circle"
+      },
+      "geometry": {
+        "coordinates": [
+          77.559489,
+          12.961246
+        ],
+        "type": "Point"
+      },
+      "id": "4cf107c68b04813666cc08a1d7c01b7a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "busstop": "Challegatta*",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": "Tentative location",
+        "tessellate": -1
+      },
+      "geometry": {
+        "coordinates": [
+          77.441222,
+          13.017539
+        ],
+        "type": "Point"
+      },
+      "id": "4da8db7587fe4c951597bb8dfcc131e9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "HBR Layout"
+      },
+      "geometry": {
+        "coordinates": [
+          77.62854,
+          13.034695
+        ],
+        "type": "Point"
+      },
+      "id": "4f8983917e230118c48a76abed91796a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Bone Mill"
+      },
+      "geometry": {
+        "coordinates": [
+          77.505018,
+          13.063884
+        ],
+        "type": "Point"
+      },
+      "id": "510aad83d84e48912f121afc5005eb92"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Jayanagar 5th Block"
+      },
+      "geometry": {
+        "coordinates": [
+          77.585815,
+          12.917157
+        ],
+        "type": "Point"
+      },
+      "id": "51b3eeda0016cfcf90638eb46b950477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Sarjapura Road Junction"
+      },
+      "geometry": {
+        "coordinates": [
+          77.665673,
+          12.920466
+        ],
+        "type": "Point"
+      },
+      "id": "536e89fe3b589e5642a2cecf0d4b40f8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Yeswanthspura Railway Station"
+      },
+      "geometry": {
+        "coordinates": [
+          77.550382,
+          13.023087
+        ],
+        "type": "Point"
+      },
+      "id": "556f6da0bc4cfb27f66a0e0dbad680e1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "RichMond Circle"
+      },
+      "geometry": {
+        "coordinates": [
+          77.597019,
+          12.964782
+        ],
+        "type": "Point"
+      },
+      "id": "5d1d5183a652603af2ba436724fe3e6a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Benniganahalli"
+      },
+      "geometry": {
+        "coordinates": [
+          77.663954,
+          12.99452
+        ],
+        "type": "Point"
+      },
+      "id": "5e823ae43600fe8545a7380c3c5399d6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Sri RajaRajeshwari colony"
+      },
+      "geometry": {
+        "coordinates": [
+          77.678631,
+          12.988252
+        ],
+        "type": "Point"
+      },
+      "id": "61c417c9ca60b722e00fbf008ccec838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Pipeline"
+      },
+      "geometry": {
+        "coordinates": [
+          77.555176,
+          12.895028
+        ],
+        "type": "Point"
+      },
+      "id": "6308d14d583a6281be04292817771298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Ambedkar College"
+      },
+      "geometry": {
+        "coordinates": [
+          77.504402,
+          12.960569
+        ],
+        "type": "Point"
+      },
+      "id": "6477ab08c1bbddfe7f6033ce78db8688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Embassy Golf Link Bussiness Park"
+      },
+      "geometry": {
+        "coordinates": [
+          77.639716,
+          12.951391
+        ],
+        "type": "Point"
+      },
+      "id": "6587f7213bfb59f5d0526f94ab3984a2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Malleswaram"
+      },
+      "geometry": {
+        "coordinates": [
+          77.571172,
+          13.009229
+        ],
+        "type": "Point"
+      },
+      "id": "66ca6d951d7e6edeae717974ac69449d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Manikshaw Parade Gorund"
+      },
+      "geometry": {
+        "coordinates": [
+          77.608637,
+          12.977296
+        ],
+        "type": "Point"
+      },
+      "id": "6a82202437a44753e097f6ab4d30891c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Hebbal Bus Station",
+        "color": "pink"
+      },
+      "geometry": {
+        "coordinates": [
+          77.590148,
+          13.042686
+        ],
+        "type": "Point"
+      },
+      "id": "6eb349feb8b38018c5e6c5c9e728a37a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Ramana Maharshi Road"
+      },
+      "geometry": {
+        "coordinates": [
+          77.584065,
+          13.003324
+        ],
+        "type": "Point"
+      },
+      "id": "6ee931441c1c9505bf01742ffdd7ff0b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Bangalore Dairy Circle"
+      },
+      "geometry": {
+        "coordinates": [
+          77.601856,
+          12.937213
+        ],
+        "type": "Point"
+      },
+      "id": "75c0a59b5dcdd4c85aabd8e02dbd8288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Palanahalli Gate",
+        "color": "pink"
+      },
+      "geometry": {
+        "coordinates": [
+          77.607959,
+          13.117016
+        ],
+        "type": "Point"
+      },
+      "id": "775edf9eeface0c8cfd3e07a953b3783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "SCT College"
+      },
+      "geometry": {
+        "coordinates": [
+          77.679334,
+          12.977369
+        ],
+        "type": "Point"
+      },
+      "id": "78050353a0e0343ceeebdf47c2f4c974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Ananda Ashrama"
+      },
+      "geometry": {
+        "coordinates": [
+          77.600562,
+          12.927281
+        ],
+        "type": "Point"
+      },
+      "id": "78eb2bf96719dde087ca7c1eaefda75d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Mallesh Palya New Bus Stand"
+      },
+      "geometry": {
+        "coordinates": [
+          77.678084,
+          12.97272
+        ],
+        "type": "Point"
+      },
+      "id": "79868279b0343ec89fed9ac5468bf690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Basavanagudi Police Station"
+      },
+      "geometry": {
+        "coordinates": [
+          77.573818,
+          12.941126
+        ],
+        "type": "Point"
+      },
+      "id": "7ff3ea90f96a7f7273838eb9d45dffcb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Bhadrappa Layout"
+      },
+      "geometry": {
+        "coordinates": [
+          77.573568,
+          13.047052
+        ],
+        "type": "Point"
+      },
+      "id": "810fa62ea8773e22fad3b86cb39b7449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Kangeri"
+      },
+      "geometry": {
+        "coordinates": [
+          77.48029,
+          12.910257
+        ],
+        "type": "Point"
+      },
+      "id": "829176d9083f680517aca4c882651b50"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "IAF Gate",
+        "color": "pink"
+      },
+      "geometry": {
+        "coordinates": [
+          77.615433,
+          13.131274
+        ],
+        "type": "Point"
+      },
+      "id": "85c67a536dc377c0d421dddfae900552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Sandal Soap Factory Bus Stop"
+      },
+      "geometry": {
+        "coordinates": [
+          77.554446,
+          13.015491
+        ],
+        "type": "Point"
+      },
+      "id": "881bc096843745721f133ea8f7e034a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Adugodi Police Station "
+      },
+      "geometry": {
+        "coordinates": [
+          77.6094,
+          12.939982
+        ],
+        "type": "Point"
+      },
+      "id": "8a0e520fc76284779562b61a495c5cc9"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          77.520718,
+          12.986786
+        ],
+        "type": "Point"
+      },
+      "id": "8de3ca1083b9b61542f057aac22cbed9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Halasuru"
+      },
+      "geometry": {
+        "coordinates": [
+          77.628312,
+          12.978115
+        ],
+        "type": "Point"
+      },
+      "id": "8e90db6380337e3bcb552b27081d7364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Jayadeva Hospital"
+      },
+      "geometry": {
+        "coordinates": [
+          77.599487,
+          12.916838
+        ],
+        "type": "Point"
+      },
+      "id": "9025ca3dca77f14b319015d691454004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Bangalore University"
+      },
+      "geometry": {
+        "coordinates": [
+          77.499905,
+          12.952031
+        ],
+        "type": "Point"
+      },
+      "id": "90480a134ac0f3df7d046909e2c0b399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "MM industries"
+      },
+      "geometry": {
+        "coordinates": [
+          77.573673,
+          12.929193
+        ],
+        "type": "Point"
+      },
+      "id": "95c15f49512d25fedbd861ca8862b16f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Pantarapalya"
+      },
+      "geometry": {
+        "coordinates": [
+          77.528373,
+          12.945429
+        ],
+        "type": "Point"
+      },
+      "id": "973b487e195426e641ef9d8607e04166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Gangenahalli",
+        "color": "pink"
+      },
+      "geometry": {
+        "coordinates": [
+          77.584034,
+          13.02329
+        ],
+        "type": "Point"
+      },
+      "id": "98a447e2cb422422c100049113fc7e0b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "busstop": "Hebbagodi Depot",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "tessellate": -1
+      },
+      "geometry": {
+        "coordinates": [
+          77.72059,
+          12.893347
+        ],
+        "type": "Point"
+      },
+      "id": "99217b6db233a79482d35934da12208e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "LB Samudaya Bhavana"
+      },
+      "geometry": {
+        "coordinates": [
+          77.523642,
+          12.998031
+        ],
+        "type": "Point"
+      },
+      "id": "9acb94d2f83033c83cbb42a393e3d200"
+    },
+  
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Sarakki"
+      },
+      "geometry": {
+        "coordinates": [
+          77.572818,
+          12.910845
+        ],
+        "type": "Point"
+      },
+      "id": "a2837f2e23693ef57d45775837b9e2f6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Elgin Floor Mill"
+      },
+      "geometry": {
+        "coordinates": [
+          77.606068,
+          12.958084
+        ],
+        "type": "Point"
+      },
+      "id": "a2d479926c1906923f6ae159964d0420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "Name": "KR Puram",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "tessellate": -1
+      },
+      "geometry": {
+        "coordinates": [
+          77.677427,
+          13.000133,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "a777535d1e6326978fa15a4db13b1ecb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Kamakhya Talkies"
+      },
+      "geometry": {
+        "coordinates": [
+          77.554039,
+          12.92383
+        ],
+        "type": "Point"
+      },
+      "id": "a97499f365c563c2c8f57ca9d450e237"
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "St. Joseph College"
+      },
+      "geometry": {
+        "coordinates": [
+          77.602923,
+          12.969862
+        ],
+        "type": "Point"
+      },
+      "id": "acb3cbc6cd4482aea084bb698db54b27"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Krantivira Sangolli  Rayanna Bus Stop"
+      },
+      "geometry": {
+        "coordinates": [
+          77.569767,
+          12.982599
+        ],
+        "type": "Point"
+      },
+      "id": "ad976721ac41a822e74eec7603628a02"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Hal Main Gate"
+      },
+      "geometry": {
+        "coordinates": [
+          77.666032,
+          12.958529
+        ],
+        "type": "Point"
+      },
+      "id": "ae5305f46efcd6e350c42a7bf9428759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Bapujinagara"
+      },
+      "geometry": {
+        "coordinates": [
+          77.541931,
+          12.953333
+        ],
+        "type": "Point"
+      },
+      "id": "aea086ea1b97e4d5d76e0738af29f9c4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Kaggadasapura"
+      },
+      "geometry": {
+        "coordinates": [
+          77.679753,
+          12.983632
+        ],
+        "type": "Point"
+      },
+      "id": "af1de7be48bef72f9a61185daf30eff2"
+    },
+  
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Lingarajapuram"
+      },
+      "geometry": {
+        "coordinates": [
+          77.625724,
+          13.012346
+        ],
+        "type": "Point"
+      },
+      "id": "b3893e062c0b58af82ff62adc19b3db5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Ashraya Badavane"
+      },
+      "geometry": {
+        "coordinates": [
+          77.472625,
+          12.98867
+        ],
+        "type": "Point"
+      },
+      "id": "b42f8c9fd603a4fd40a189ab2163702d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Magadi Road"
+      },
+      "geometry": {
+        "coordinates": [
+          77.548302,
+          12.975215
+        ],
+        "type": "Point"
+      },
+      "id": "bb0b7892a68324119051111c6afb957e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Bharathi Nagara",
+        "color": "pink"
+      },
+      "geometry": {
+        "coordinates": [
+          77.617516,
+          13.137838
+        ],
+        "type": "Point"
+      },
+      "id": "bbad41dac30e8d9e1c6dea9d66071b76"
+    },
+   
+   
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Manyatha Tech Park"
+      },
+      "geometry": {
+        "coordinates": [
+          77.620419,
+          13.041173
+        ],
+        "type": "Point"
+      },
+      "id": "c742a7048b3e10561b725c62091334bd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Bangalore East"
+      },
+      "geometry": {
+        "coordinates": [
+          77.620201,
+          13.000273
+        ],
+        "type": "Point"
+      },
+      "id": "c8572a70f54c9b6d762f1f29a5296a8c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Aerodrome Bus stop"
+      },
+      "geometry": {
+        "coordinates": [
+          77.592687,
+          13.077341
+        ],
+        "type": "Point"
+      },
+      "id": "c8f834f94460b972b7eaf7f0703aa888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Aladmara"
+      },
+      "geometry": {
+        "coordinates": [
+          77.50914,
+          12.974095
+        ],
+        "type": "Point"
+      },
+      "id": "d0b1efbfb6268fa998f53d56d9b80e8a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Dormlur Bridge"
+      },
+      "geometry": {
+        "coordinates": [
+          77.641608,
+          12.960599
+        ],
+        "type": "Point"
+      },
+      "id": "d4ae9c2845b49d35ef64925db4270721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Banashankri Bus Station"
+      },
+      "geometry": {
+        "coordinates": [
+          77.57343,
+          12.916906
+        ],
+        "type": "Point"
+      },
+      "id": "da41a8d5e654edc449c3b094da47d4d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Rajaji Nagar"
+      },
+      "geometry": {
+        "coordinates": [
+          77.557866,
+          12.990978
+        ],
+        "type": "Point"
+      },
+      "id": "dc1905f6e66d5bc5ff948c92841b8f98"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Kumara Krupa Road Pass"
+      },
+      "geometry": {
+        "coordinates": [
+          77.585017,
+          12.993888
+        ],
+        "type": "Point"
+      },
+      "id": "dcd3299b6141e70034f7be7c7e744d50"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "busstop": "Kuvempu Road",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "tessellate": -1
+      },
+      "geometry": {
+        "coordinates": [
+          77.556972,
+          12.998523,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "dd3f1520fcdd0e5e33ff8411c3868f5b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Hennur Ring Road"
+      },
+      "geometry": {
+        "coordinates": [
+          77.632494,
+          13.027599
+        ],
+        "type": "Point"
+      },
+      "id": "dda3dcc0c51e9d945bd251f271804f98"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Nagga Talkies"
+      },
+      "geometry": {
+        "coordinates": [
+          77.611825,
+          12.984496
+        ],
+        "type": "Point"
+      },
+      "id": "ddd23940356425d15be3a95962b1fd0e"
+    },
+ 
+
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Isolation Hospital"
+      },
+      "geometry": {
+        "coordinates": [
+          77.643165,
+          12.985099
+        ],
+        "type": "Point"
+      },
+      "id": "e920f76ddfb9b20a4f93bbb5f3632250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Ejipura Junction"
+      },
+      "geometry": {
+        "coordinates": [
+          77.633102,
+          12.938591
+        ],
+        "type": "Point"
+      },
+      "id": "ead3a83a715413c4aeeec0f61f369f5d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Hennur"
+      },
+      "geometry": {
+        "coordinates": [
+          77.641512,
+          13.03952
+        ],
+        "type": "Point"
+      },
+      "id": "eb7d66029e323a3a0f984c643b5817a8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Islamiah Institute"
+      },
+      "geometry": {
+        "coordinates": [
+          77.59497,
+          12.87498
+        ],
+        "type": "Point"
+      },
+      "id": "ee5aeb8b4bf4d6086397a5dc3c36bc9a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Herohalli Kere"
+      },
+      "geometry": {
+        "coordinates": [
+          77.48973,
+          12.986657
+        ],
+        "type": "Point"
+      },
+      "id": "eeba558cccd59bffcc0385287c1528af"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "busstop": "Kuvempu Road",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "tessellate": -1
+      },
+      "geometry": {
+        "coordinates": [
+          77.556972,
+          12.998523,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "eed7aaad117b6eb9393ff9e4fb5a2437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Jalahalli Bus Stop"
+      },
+      "geometry": {
+        "coordinates": [
+          77.516395,
+          13.041876
+        ],
+        "type": "Point"
+      },
+      "id": "f026f5ebb12535b183bc635ab4ee1afc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Forest Gate"
+      },
+      "geometry": {
+        "coordinates": [
+          77.459103,
+          12.991711
+        ],
+        "type": "Point"
+      },
+      "id": "f14e666176b47e2c64eb9973f4dbc969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "National Institute of Unani Medicine"
+      },
+      "geometry": {
+        "coordinates": [
+          77.512357,
+          12.987848
+        ],
+        "type": "Point"
+      },
+      "id": "f22e73a08602a44a045cd25df3bb6836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "St Joseph Church"
+      },
+      "geometry": {
+        "coordinates": [
+          77.569766,
+          12.96408
+        ],
+        "type": "Point"
+      },
+      "id": "f289a98d2811a4a63bcbc5a0dc15a5ba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "S J Polytechnic College"
+      },
+      "geometry": {
+        "coordinates": [
+          77.584445,
+          12.977946
+        ],
+        "type": "Point"
+      },
+      "id": "f56e980dc8922740da756ed3c17205de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Mahadevapura"
+      },
+      "geometry": {
+        "coordinates": [
+          77.685679,
+          12.993345
+        ],
+        "type": "Point"
+      },
+      "id": "fbfd38bc2737d16152695b160720fb81"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Corporation Circle"
+      },
+      "geometry": {
+        "coordinates": [
+          77.58807,
+          12.966956
+        ],
+        "type": "Point"
+      },
+      "id": "fc624218b4000ed0d4f557e0fa5d209d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitudeMode": null,
+        "extrude": 0,
+        "begin": null,
+        "drawOrder": null,
+        "busstop": "National College",
+        "visibility": -1,
+        "timestamp": null,
+        "icon": null,
+        "end": null,
+        "description": null,
+        "tessellate": -1
+      },
+      "geometry": {
+        "coordinates": [
+          77.573669,
+          12.95059,
+          0
+        ],
+        "type": "Point"
+      },
+      "id": "fd2ec593b633ff818ad16521a4a6ad56"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "BIEC"
+      },
+      "geometry": {
+        "coordinates": [
+          77.459103,
+          12.991711
+        ],
+        "type": "Point"
+      },
+      "id": "fda21806abe539f0cc4a7c3270786707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Jn of Dasarahalli Road",
+        "color": "pink"
+      },
+      "geometry": {
+        "coordinates": [
+          77.593723,
+          13.055835
+        ],
+        "type": "Point"
+      },
+      "id": "fdf20a17e34edfd0e24751e8eca667d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "busstop": "Laggere Bridge"
+      },
+      "geometry": {
+        "coordinates": [
+          77.526752,
+          13.00881
+        ],
+        "type": "Point"
+      },
+      "id": "ff9e76bc8c672f67091c393c572803bc"
+    }
+  ]

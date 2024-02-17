@@ -1,0 +1,94 @@
+.signup{
+    background: url('./resource/city.jpg');
+    background-size:1200px;
+    height: 713px;
+    width: 1515px;
+    background-repeat: no-repeat;
+}
+.signuptab{
+    position: relative;
+    color: white;
+    width: 49%;
+    height: 713px;
+    background: #252836;
+    left: 52%;
+    overflow: hidden;
+}
+h2 {
+    position: relative;
+    left: 4%;
+    font-size: 55px;
+    top: 3%;
+}
+.signup h1 {
+    position: relative;
+    left: 4%;
+    top: 148px;
+}
+input.Crname{
+    position: relative;
+    top: 3px;
+    height: 42px;
+    margin: 0px 0px 10px 0px;
+    width: 46%;
+    font-size: 24px;
+    padding: 0px 0px 0px 13px;
+}
+input.CrEmail {
+    position: relative;
+    top: 3px;
+    height: 42px;
+    margin: 0px 0px 10px 0px;
+    width: 46%;
+    font-size: 24px;
+    padding: 0px 0px 0px 13px;
+}
+input.Crpass {
+    position: relative;
+    height: 42px;
+    top: 3px;
+    width: 46%;
+    font-size: 24px;
+    padding: 0px 0px 0px 13px;
+}
+.signup ul {
+    top: 22%;
+    list-style: none;
+    position: relative;
+    left: 5%;
+}
+li.text {
+    position: relative;
+    top: 5px;
+}
+button.create{
+    transition:0.2s all ease-in;
+    position: relative;
+    height: 47px;
+    width: 179px;
+    top: 49px;
+    background: #c82b2b;
+    border: none;
+    color: white;
+    box-shadow: black 4px 4px 7px;
+    font-size: 17px;
+}
+button.create:active{
+    background:#681818;
+    transform: scale(0.85);
+}
+.marker {
+    z-index: 1;
+    position: absolute;
+    top: 25%;
+    width: 86%;
+    left: 42%;
+    opacity: 0.20;
+}
+p.warning {
+    transition: 0.3s all ease-in;
+    color: red;
+    position: relative;
+    top: 32%;
+    left: 4%;
+}
