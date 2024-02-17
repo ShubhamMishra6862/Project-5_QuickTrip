@@ -1,2 +1,0 @@
-
-      distFromB:data.distFromB
