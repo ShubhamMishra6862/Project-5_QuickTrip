@@ -21,7 +21,7 @@ const mongoDB = process.env.DATABASE_TOKEN;
 main().catch(err => console.log(err));
 async function main() {
     await mongoose.connect(mongoDB);
-    console.log("Database Connected")
+    console.log("Database Connected to the server")
 }
 
 const app = express();
