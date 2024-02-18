@@ -5,8 +5,7 @@
 ## **About**
 This MERN application serves the purpose of optimizing bus routes and facilitating ticket reservations. Its primary objective is to showcase the inner workings of navigation applications such as Google Maps and Apple Maps by constructing algorithms and logic entirely from scratch. The project utilizes a graph data structure where bus stops are represented as nodes, employing geocodes or coordinates, and interconnected with branches. A custom-built BFS pathfinding algorithm is then implemented to find the shortest path from a specified source to destination. Notably, every functionality, including CRUD operations and pathfinding, is developed without the use of external libraries. This approach aims to provide a clear understanding for beginners about MERN development, demonstrating how authentications and other features can be implemented without relying on third-party libraries.
 
-<p align="center"><video src=https://github.com/ShubhamMishra6862/Project-5_QuickTrip/assets/101014691/42b41f08-0666-48ae-acd4-da8c960c917b width="500" height="300"></p>
-
+https://github.com/ShubhamMishra6862/Project-5_QuickTrip/assets/101014691/c6ccf0db-4570-4673-beb1-599026f1b4d4
 
 ## **Features & Logic**
 This application utilizes a graph data structure to establish a bus network, with test cases developed using coordinates inspired by Bangalore's map (though the specified bus stop coordinates are not based on real data). The pathfinding algorithm structures the coordinates into a JSON object for output purposes. Subsequently, the application organizes various outputs based on the time taken by each path before sending them to the frontend for rendering on the map. Then on frontend side it gives those path asa suggestion.
