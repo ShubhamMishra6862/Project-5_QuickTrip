@@ -115,7 +115,6 @@ form {
 }
 .pathList{
     background: #252836;
-    height: 658px;
     width: 600px;
 }
 .dropFrom{
@@ -153,7 +152,7 @@ form {
 .map {
     position: relative;
     width: 936px;
-    height: 658px;
+    height:100%;
     float: right;
     background: #F1F2F1;
     overflow: hidden;

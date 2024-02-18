@@ -3,7 +3,7 @@
     background: url('./resource/city.jpg');
     background-size:contain;
     height: 713px;
-    width: 1515px;
+    width: 100%;
     background-repeat: no-repeat;
 }
 .logintab {
