@@ -42,6 +42,7 @@ const Login = () => {
         <h1>Log In</h1>
         
         <ul>
+          <li>User: rahul27 | Password: rahul27</li>
           <li className="text">Username</li>
           <li><input type="text" className='Email' value={username} onChange={e=>{setusername(e.target.value)}}/></li>
           <li className="text">Password</li>
@@ -49,7 +50,6 @@ const Login = () => {
           <li><button className="Login" onClick={e=>{requestLogin(e)}}>Log In</button></li>
           <li className="or">OR</li>
           <li><button className="Create Account" onClick={()=>{navigate('/signup')}}>Create Account</button></li>
-          <li>User: rahul27 | Password: rahul27</li>
         </ul>
         <p className='warning'>{warning}</p>
       </div>
