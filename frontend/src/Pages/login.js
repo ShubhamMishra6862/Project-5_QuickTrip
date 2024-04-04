@@ -49,6 +49,7 @@ const Login = () => {
           <li><button className="Login" onClick={e=>{requestLogin(e)}}>Log In</button></li>
           <li className="or">OR</li>
           <li><button className="Create Account" onClick={()=>{navigate('/signup')}}>Create Account</button></li>
+          <li>User: rahul27 | Password: rahul27</li>
         </ul>
         <p className='warning'>{warning}</p>
       </div>
