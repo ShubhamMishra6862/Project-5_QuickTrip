@@ -42,7 +42,7 @@ const Login = () => {
         <h1>Log In</h1>
         
         <ul>
-          <li>User: rahul27 | Password: rahul27 | <a href="https://github.com/ShubhamMishra6862/Project-5_QuickTrip" style="text-decoration: none">Github Repo</a></li>
+          <li>User: rahul27 | Password: rahul27 | <a href="https://github.com/ShubhamMishra6862/Project-5_QuickTrip" style="text-decoration:none;">Github Repo</a></li>
           <li className="text">Username</li>
           <li><input type="text" className='Email' value={username} onChange={e=>{setusername(e.target.value)}}/></li>
           <li className="text">Password</li>
